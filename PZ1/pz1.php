@@ -19,8 +19,15 @@ $suffix = date("md",$t)
     <div id="header">
       <div id="logo">
         <div id="logo_text">
-          <h1><a href="pz2.php"><b>Pwn</b><span class="logo_colour">Zilla</span>!</a></h1>
-          <h5> Web Hacking Challenge Series by <a href="http://ssl.ds.unipi.gr/" target="_blank">Systems Security Laboratory</a> <a href="https://twitter.com/ssl_unipi" target="_blank">(@ssl_unipi)</a>.</h5>
+          <h1><a href="pz1.php"><b>Pwn</b><span class="logo_colour">Zilla</span>!</a></h1>
+          <h5> Web Hacking Challenge Series by 
+               <a href="http://ssl.ds.unipi.gr/">Systems Security Laboratory</a> 
+               <a href="https://twitter.com/ssl_unipi">(@ssl_unipi)</a>.
+               <br>
+               Contributed by 
+               <a href="https://www.secnews.gr/"> SecNews </a>
+               <a href="https://twitter.com/SecNews_GR/"> (@SecNews_GR)</a>.
+          </h5>
         </div>
       </div>
       <div id="menubar">
@@ -150,17 +157,19 @@ $suffix = date("md",$t)
 </p>
     <div id="content_footer"></div>
     <div id="footer">
-      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-      <small><a href="http://ssl.ds.unipi.gr/phd_candidates/astasinopoulos/" target="_blank">Anastasios Stasinopoulos</a> <a href="https://twitter.com/ancst" target="_blank">(@ancst)</a></small>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/><br>
+      <small>Copyright &#169; 2014 <a href="http://ssl.ds.unipi.gr/phd_candidates/astasinopoulos/" target="_blank">Anastasios Stasinopoulos</a> (<a href="https://twitter.com/ancst" target="_blank">@ancst</a>)</small>
       <small><p>
 	      <a href="http://unipi.gr/" target="_blank"> University of Piraeus</a> - 
 	      <a href="http://www.ds.unipi.gr/" target="_blank">Department of Digital Systems</a> -
-	      <a href="http://www.ssl.ds.unipi.gr/" target="_blank">Systems Security Laboratory</a>
+	      <a href="http://www.ssl.ds.unipi.gr/" target="_blank">Systems Security Laboratory</a> <br>
+	      <a href="https://www.secnews.gr/" target="_blank"> SecNews: IT Security News Media </a>
       </p></small>
       <small><p>Modified template from <a href="http://www.html5webtemplates.co.uk" target="_blank">HTML5webtemplates.co.uk</a></p></small>
     </div>
   </div>
 </body>
 </html>
+
 
 
